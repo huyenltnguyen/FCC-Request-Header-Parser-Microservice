@@ -1,0 +1,26 @@
+{
+  "name": "fcc-request-header-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyenltnguyen/FCC-Request-Header-Parser-Microservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyenltnguyen/FCC-Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/huyenltnguyen/FCC-Request-Header-Parser-Microservice#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
